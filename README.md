@@ -7,4 +7,4 @@
 ==> python =   https://prisoner79.github.io/my_certificates/Python
 ==> medha =   https://prisoner79.github.io/my_certificates/medha
 ==> technavigators =   https://prisoner79.github.io/my_certificates/TECHNEVIGATORS
-==> jmes =   https://prisoner79.github.io/my_certificates/SYNC%20INTERN
+==> jmes =   https://prisoner79.github.io/my_certificates/internship%20jmes
