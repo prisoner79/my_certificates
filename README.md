@@ -6,5 +6,5 @@
 ==> ne railway =   https://prisoner79.github.io/my_certificates/NE%20RAILWAY
 ==> python =   https://prisoner79.github.io/my_certificates/Python
 ==> medha =   https://prisoner79.github.io/my_certificates/SYNC%20INTERN
-==> technavigators =   https://prisoner79.github.io/my_certificates/SYNC%20INTERN
+==> technavigators =   https://prisoner79.github.io/my_certificates/TECHNEVIGATORS
 ==> jmes =   https://prisoner79.github.io/my_certificates/SYNC%20INTERN
